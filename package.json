@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/AlexCaba151/wdd330-sleepoutside-project#readme",
   "devDependencies": {
+    "gh-pages": "^6.3.0",
     "vite": "^8.0.3"
   }
 }
